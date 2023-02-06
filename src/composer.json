@@ -1,0 +1,17 @@
+{
+    "name": "55145027/php-practice",
+    "autoload": {
+        "classmap": [
+          "Classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Luke Cresswell",
+            "email": "l.cresswell@mmu.ac.uk"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
